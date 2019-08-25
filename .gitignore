@@ -1,3 +1,4 @@
 *.xls
 *.code-workspace
-/.vscode/
+.vscode/
+.~lock.*
