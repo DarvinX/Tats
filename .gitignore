@@ -1,4 +1,6 @@
 *.xls
 *.code-workspace
+*.csv
 .vscode/
 .~lock.*
+
